@@ -1,0 +1,6 @@
+{
+  "name": "HisabPro",
+  "description": "Financial Management Software for Pakistani users - Track Income, Vehicles, Home Expenses, and Savings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
